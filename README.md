@@ -1,4 +1,6 @@
-E-coin integration/staging tree
+E-coin integration/staging tree 
+================================
+COIN CREATED FOR FUN
 ================================
 
 https://www.e-coin.com
@@ -11,7 +13,7 @@ What is E-coin?
 Cryptographic currency created in my spare time, in reference to the TV series Mr. Roboot, for which a corporation called ECORP. created a currency a (ECOIN). Being a huge fan of the series, I decided to create this coin just for fun
 Ecoin is similar to Bitcoin, some differences are listed here.
 
- - subsidy halves in 440k blocks (~2 years)
+ - subsidy halves in 940k blocks (~4 years)
  - ~94 million total coins
  - 50 coins per block
  - 288 blocks to retarget difficulty
